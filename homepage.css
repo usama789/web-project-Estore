@@ -300,7 +300,7 @@ div .contact{
 @media (max-width: 600px) {
     .column-1 {
       flex: 100%;
-      max-width: 50%;
+      max-width: 100%;
     }
   }
  .flex-container{
